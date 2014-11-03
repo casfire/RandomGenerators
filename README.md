@@ -14,4 +14,3 @@ This repository also contains an example project that benchmarks them.
 
 * Use <b>make</b> to compile
 * This will create <i>obj</i> directory for object files and <i>bin</i> for the binary
-* Works on Linux and Windows (migw32)
